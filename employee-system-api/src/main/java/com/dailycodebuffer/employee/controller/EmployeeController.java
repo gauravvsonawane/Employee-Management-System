@@ -1,4 +1,4 @@
-package com.dailycodebuffer.employee;
+package com.dailycodebuffer.employee.controller;
 
 import com.dailycodebuffer.employee.model.Employee;
 import com.dailycodebuffer.employee.services.EmployeeService;
