@@ -11,6 +11,6 @@ This is my first Springboot Application.
 * Route: "/addEmployee" 
 ![image](https://github.com/gauravvsgithub/Employee-Management-System/assets/54109748/e9ab8b1d-3fae-4d69-b71f-7da04f365bcc)
 
-* Route: "updateEmployee/:id"
+* Route: "/updateEmployee/:id"
 ![image](https://github.com/gauravvsgithub/Employee-Management-System/assets/54109748/4d593fb2-6b3d-4da1-b204-d9f6c496e1df)
 
